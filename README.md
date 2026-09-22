@@ -34,7 +34,7 @@
 
 **No.** | **Year** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-:  | :-:  | :-: 
-05 | 2024 | CAAI AIR | A Survey of Camouflaged Object Detection and Beyond |[Paper](https://www.sciopen.com/article/10.26599/AIR.2024.9150044)/[Project](https://github.com/ChunmingHe/awesome-concealed-object-segmentation) 
+05 | 2024 | CAAI AIR | A Survey of Camouflaged Object Detection and Beyond <br> <sup><sub>*Fengyang Xiao, Sujie Hu, Yuqi Shen, Chengyu Fang, Jinfa Huang, Chunming He, Longxiang Tang, Ziyun Yang, Xiu Li*</sub></sup> |[Paper](https://www.sciopen.com/article/10.26599/AIR.2024.9150044)/[Project](https://github.com/ChunmingHe/awesome-concealed-object-segmentation) 
 04 | 2024 | Neucom | A systematic review of image-level camouflaged object detection with deep learning |[Paper](https://www.sciencedirect.com/science/article/pii/S0165168417300464)/[Project]
 03 | 2024 | MulSys | A survey on deep learning-based camouflaged object detection | [Paper](https://ieeexplore.ieee.org/abstract/document/8331851)/[Project]
 02 | 2023 | VI | Advances in Deep Concealed Scene Understanding | [Paper](https://ieeexplore.ieee.org/document/8500152)/[Project] 
