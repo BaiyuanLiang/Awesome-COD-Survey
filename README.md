@@ -148,6 +148,9 @@
 | | 2021 | arXiv | <small><sup>`-`</sup></small> | Exploring Depth Contribution for Camouflaged Object Detection <br> <sup><sub>*Mochu Xiang, Jing Zhang, Yunqiu Lv, et al.*</sub></sup> | [Paper](https://arxiv.org/abs/2106.13217v3)\|Code
 | | 2026 | TCSVT | <small><sup>`--`</sup></small> | Visible-Infrared Camouflaged Object Detection <br> <sup><sub>*Cheng Liu, Zheng Wang, Xinyu Yan, Meijun Sun, Qinghua Hu*</sub></sup> | [Paper](https://doi.org/10.1109/tcsvt.2025.3608933)\|Code
 | | 2026 | TMM | <small><sup>`--`</sup></small> | Band-Mixed Edge-Aware Interaction Learning for RGB-T Camouflaged Object Detection <br> <sup><sub>*Ruiheng Zhang, Kaizheng Chen, Lu Li, Daming Zhou, Yunqiu Xu, Zheng Lin, Lixin Xu, Weitao Song*</sub></sup> | [Paper](https://doi.org/10.1109/tmm.2026.3703589)\|Code
+| | 2025 | EAAI | <small><sup>`HIPFNet`</sup></small> | Polarization-based Camouflaged Object Detection with high-resolution adaptive fusion Network  <br> <sup><sub>*Xin Wang, Junfeng Xu, Jiajia Ding*</sub></sup>   | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625002453)\|[Code](https://github.com/CVhfut/HIPFNet)
+| | 2024 | EAAI | <small><sup>`IPNet`</sup></small> | IPNet: Polarization-based Camouflaged Object Detection via dual-flow network   <sub>![Static Badge](https://img.shields.io/badge/PCOD_1200-grey)</sub>   <br> <sup><sub>*Xin Wang, Jiajia Ding, Zhao Zhang, Junfeng Xu, Jun Gao*</sub></sup>   | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197623014872)\|[Code](https://github.com/CVhfut/PCOD_1200) 
+| | 2023 | PRL | <small><sup>`PolarNet`</sup></small> | Polarization-based Camouflaged Object Detection  <sub>![Static Badge](https://img.shields.io/badge/PCOD-grey)</sub>  <br> <sup><sub>*Xin Wang, Zhao Zhang, Jun Gao*</sub></sup>   | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865523002532)\|[Code](https://github.com/CVhfut/Polar-COD)
 
 
 
