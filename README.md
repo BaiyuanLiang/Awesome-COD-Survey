@@ -179,6 +179,23 @@
 
 <h2 id="Datasets">📂 9. Datasets</h2>
 
+| **No.** | **Name** | **Year** | **Pub.** | **Links** | **Type** | **Img.(Camo.)** | **BBbox** | **Pix.** | **Ins.** | **Comments**
+| :------: | :------: | :------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: |
+| | HyperCOD | 2026 | AAAI | [Paper](https://doi.org/10.1609/aaai.v40i4.37221) | HSI | 350 |  | &check; |  | <sup><sub>Hyperspectral COD benchmark</sub></sup> |
+| | [ACD1K](https://www.kaggle.com/datasets/aalihhiader/military-camouflage-soldiers-dataset-mcs1k) | 2026 | EAAI | [Paper](https://www.sciencedirect.com/science/article/pii/S0952197625033457) | Img | 1078 | &check;  | &check; |  | <sup><sub>Human-based camouflaged subjects</sub></sup>
+| | [USC12K](https://github.com/ssecv/USCNet) | 2025 | ICCV | [Paper](https://arxiv.org/abs/2412.10943) | Img | 12000 |  | &check; |  | <sup><sub>Unconstrained salient & camouflaged object detection</sub></sup> 
+| | [R2C7K](https://github.com/zhangxuying1004/RefCOD) | 2025 | TPAMI | [Paper](https://github.com/zhangxuying1004/RefCOD) | Img | 5015/1600(Ref) |  | &check; |  | <sup><sub>Referring COD</sub></sup> | 
+| | [PlantCamo](https://github.com/yjybuaa/PlantCamo) | 2025 | AIR | [Paper](https://arxiv.org/pdf/2410.17598) | Img | 1250 | &check; | &check; | &check; | <sup><sub>Plant COD</sub></sup>  |  
+| | [CoCOD8K](https://github.com/zc199823/BBNet--CoCOD) | 2024 | TNNLS | [Paper](https://arxiv.org/abs/2310.04253) | Img | 8528 |  | &check; | | <sup><sub>Co-COD</sub></sup>  | 
+| | [ACOD-12K](https://github.com/Kki2Eve/RISNet) | 2024 | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Depth-Aware_Concealed_Crop_Detection_in_Dense_Agricultural_Scenes_CVPR_2024_paper.pdf) | Img | 6092 | &check; | &check; | | <sup><sub>RGB-D COD (Crop)</sub></sup> 
+| | [ACOD2K](https://github.com/syxvision/FDNet) | 2023 | ICME | [Paper](https://arxiv.org/abs/2307.03943) | Img | 1500 |  | &check; | | <sup><sub>Artificial camouflaged object</sub></sup>  
+| | [CAM-LDR](https://github.com/JingZhang617/COD-Rank-Localize-and-Segment) | 2023 | TCSVT | [Paper](https://arxiv.org/abs/2205.11333) | Img | 4040 | | | | <sup><sub>Camo ranking (fixation & ranking)</sub></sup>  
+| | [CAMO++](https://sites.google.com/view/ltnghia/research/camo_plus_plus?authuser=0) | 2021 | TIP | [Paper](https://arxiv.org/abs/2103.17123) | Img | 2700 | &check; | &check; | &check; |  <sup><sub>Instance seg.</sub></sup>  
+| | [NC4K](https://github.com/JingZhang617/COD-Rank-Localize-and-Segment) | 2021 | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Lv_Simultaneously_Localize_Segment_and_Rank_the_Camouflaged_Objects_CVPR_2021_paper.pdf) | Img | 4121 | &check; | &check; | &check; |
+| | [COD10K](http://dpfan.net/camouflage/) | 2020 | CVPR | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fan_Camouflaged_Object_Detection_CVPR_2020_paper.pdf) | Img | 5066 | &check; | &check; | &check; |
+| | [CAMO](https://sites.google.com/view/ltnghia/research/camo) | 2019 | CVIU | [Paper](http://www.dgcv.nii.ac.jp/Publications/Papers/2019/cviu2019.pdf) | Img | 1250 |   | &check; |   |
+| | [CPD1K](https://github.com/xfflyer/Camouflaged-people-detection) | 2018 | SPL | [Paper](https://ieeexplore.ieee.org/document/8336933)  | Img | 1000 |   | &check; |   | 
+| | [CHAMELEON](https://www.polsl.pl/rau6/chameleon-database-animal-camouflage-analysis/) | 2017 | — | [Webpage](https://www.polsl.pl/rau6/chameleon-database-animal-camouflage-analysis/) | Img | 76 |   | &check; |   | 
 
 
 ------
