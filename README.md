@@ -45,8 +45,18 @@
 ------
 ------
 
+<details>
+<summary><h2 id="Preprint-Papers">📝 2. Preprint Papers</h2></summary>
 
-<h2 id="Preprint-Papers">📝 2. Preprint Papers</h2>
+
+
+</details>
+------
+------
+
+
+
+<summary><h2 id="Camouflaged-Object-Detection">🔥 3. Fully Supervised COD</h2></summary>
 
 
 
@@ -55,18 +65,8 @@
 ------
 
 
-
-<h2 id="Camouflaged-Object-Detection">🔥 3. Fully Supervised COD</h2>
-
-
-
-
-------
-------
-
-
-
-<h2 id="Weakly-supervised-COD">🔥 4. Weakly supervised COD</h2>
+<details>
+<summary><h2 id="Weakly-supervised-COD">🔥 4. Weakly supervised COD</h2></summary>
 
 |  **No.** | **Year** | **Pub.** | **Model** |      <div align="center">Title</div>              | **Links**                                                    |  
 | :-----: | :------: | :------: | :-------: | :------------------------------------------------ | :-----------------------------------------------------------: |  
@@ -86,13 +86,13 @@
 | | 2023 | AAAI | **CRNet** | Weakly-Supervised Camouflaged Object Detection with Scribble Annotations  </sub> <br> <sup><sub>*Ruozhen He, Qihua Dong, Jiaying Lin, Rynson W.H. Lau*</sub></sup>  | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25156)\|[Code](https://github.com/dddraxxx/Weakly-Supervised-Camouflaged-Object-Detection-with-Scribble-Annotations)
 
 
-
+</details>
 ------
 ------
 
 
-
-<h2 id="Semi-supervised-COD">🔥 5. Semi-supervised COD</h2>
+</details>
+<summary><h2 id="Semi-supervised-COD">🔥 5. Semi-supervised COD</h2></summary>
 
 | **No.** | **Year** | **Pub.** | **Model** |      <div align="center">Title</div>              | **Links**                                                    | 
 | :-----: | :------: | :------: | :-------: | :------------------------------------------------ | :-----------------------------------------------------------: |  
@@ -105,13 +105,13 @@
 
 
 
-
+<details>
 ------
 ------
 
 
-
-<h2 id="Unsupervised-COD">🔥 6. Unsupervised COD</h2>
+</details>
+<summary><h2 id="Unsupervised-COD">🔥 6. Unsupervised COD</h2></summary>
 
 | **No.** | **Year** | **Pub.** | **Model** |      <div align="center">Title</div>              | **Links**                                                    | 
 | :-----: | :------: | :------: | :-------: | :------------------------------------------------ | :-----------------------------------------------------------: |  
@@ -126,14 +126,14 @@
 | | 2023 | ICCVW | <sup>`UCOS-DA`</sup>	| Unsupervised Camouflaged Object Segmentation as Domain Adaptation   <br> <sup><sub>*Yi Zhang; Chengyi Wu*</sub></sup>  | [Paper](https://openaccess.thecvf.com/content/ICCV2023W/OODCV/html/Zhang_Unsupervised_Camouflaged_Object_Segmentation_as_Domain_Adaptation_ICCVW_2023_paper.html)\|[Code](https://github.com/YeeZ93/UCOS-DA)
 
 
-
+<details>
 ------
 ------
 
 
 
-
-<h2 id="Multi-modal-Methods">🔥 7. Multi-modal Methods</h2> 
+</details>
+<summary><h2 id="Multi-modal-Methods">🔥 7. Multi-modal Methods</h2></summary> 
 
 | **No.** | **Year** | **Pub.** | **Model** |      <div align="center">Title</div>              | **Links**                                                    | 
 | :-----: | :------: | :------: | :-------: | :------------------------------------------------ | :-----------------------------------------------------------: | 
@@ -154,13 +154,13 @@
 
 
 
-
+<details>
 ------
 ------
 
 
-
-<h2 id="Novel-Tasks">✨ 8. Novel Tasks</h2>
+</details>
+<summary><h2 id="Novel-Tasks">✨ 8. Novel Tasks</h2></summary>
 
 | **No.** | **Year** | **Pub.** | **Model** |      <div align="center">Title</div>              | **Links**                                                    | 
 | :-----: | :------: | :------: | :-------: | :------------------------------------------------ | :-----------------------------------------------------------: |  
@@ -171,13 +171,13 @@
 | | 2025  | TPAMI | <sup>`R2CNet`</sup> | Referring Camouflaged Object Detection  <sub>![Static Badge](https://img.shields.io/badge/R2C7K-grey)</sub>  <br> <sup><sub>*Xuying Zhang, Bowen Yin, Zheng Lin, Qibin Hou, Deng-Ping Fan, Ming-Ming Cheng*</sub></sup>  | [Paper](https://arxiv.org/abs/2306.07532)\|[Code](https://github.com/zhangxuying1004/RefCOD)   
 | | 2024 | ICME | <sup>`RPMA`</sup> | Reference Prompted Model Adaptation for Referring Camouflaged Object Detection   <br> <sup><sub>*Xuewei Liu; Shaofei Huang; Ruipu Wu; Hengyuan Zhao; Duo Xu; Xiaoming Wei, Jizhong Han, Si Liu*</sub></sup>  | [Paper](https://ieeexplore.ieee.org/abstract/document/10687557)\|Code
 
-
+<details>
 ------
 ------
 
 
-
-<h2 id="Datasets">📂 9. Datasets</h2>
+</details>
+<summary><h2 id="Datasets">📂 9. Datasets</h2></summary>
 
 | **No.** | **Name** | **Year** | **Pub.** | **Links** | **Type** | **Img.(Camo.)** | **BBbox** | **Pix.** | **Ins.** | **Comments**
 | :------: | :------: | :------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: |
@@ -197,7 +197,7 @@
 | | [CPD1K](https://github.com/xfflyer/Camouflaged-people-detection) | 2018 | SPL | [Paper](https://ieeexplore.ieee.org/document/8336933)  | Img | 1000 |   | &check; |   | 
 | | [CHAMELEON](https://www.polsl.pl/rau6/chameleon-database-animal-camouflage-analysis/) | 2017 | — | [Webpage](https://www.polsl.pl/rau6/chameleon-database-animal-camouflage-analysis/) | Img | 76 |   | &check; |   | 
 
-
+<details>
 ------
 ------
 
