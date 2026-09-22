@@ -13,11 +13,12 @@
 
 ## :open_book: Content:
 
-1. <a href="#survey">Related Surveys to COD </a>
+1. <a href="#Survey">Related Surveys to COD </a>
 2. <a href="#Preprint Papers"> Preprint Papers </a>
-3. <a href="#CNNmodels"> Deep Convolution for Remote Sensing Image Dehazing </a>
-4. <a href="#datasets"> Datasets </a>
-5. <a href="#Transformer"> Vision Transformer for Remote Sensing Image Dehazing </a>
-6. <a href="#Diffusion"> Diffusion Generation for Remote Sensing Image Dehazing </a>
-7. <a href="#prospects"> Current Challenges and Future Prospects </a>
-8. <a href="#evaluation"> Evaluation </a>
+3. <a href="#Camouflaged Object Detection"> Camouflaged Object Detection(COD) </a>
+6. <a href="#Weakly-supervised COD"> Weakly-supervised COD </a>
+7. <a href="#Semi-supervised COD"> Semi-supervised COD </a>
+8. <a href="#Unsupervised COD"> Unsupervised COD </a>
+9. <a href="#Multi-modal Methods"> Multi-modal Methods </a>
+4. <a href="#Novel Tasks"> Novel Tasks </a>
+5. <a href="#Datasets"> Datasets </a>
