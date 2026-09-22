@@ -14,26 +14,16 @@
 ## :open_book: Contents:
 
 1. [Related Surveys](#Related-Surveys)
-1. [Related Surveys](#related-surveys)
-1. [Related Surveys](#related-surveys)
-1. [Related Surveys](#related-surveys)
-1. [Related Surveys](#related-surveys)
-1. [Related Surveys](#related-surveys)
-1. [Related Surveys](#related-surveys)
-1. [Related Surveys](#related-surveys)
-1. [Related Surveys](#related-surveys)
-1. [Related Surveys](#related-surveys)
+2. [Preprint Papers](#Preprint-Papers)
+3. [Camouflaged Object Detection (COD)](#Camouflaged-Object-Detection)
+4. [Weakly-supervised COD](#Weakly-supervised-COD)
+5. [Semi-supervised COD](#Semi-supervised-COD)
+6. [Unsupervised COD](#Unsupervised-COD)
+7. [Multi-modal Methods](#Multi-modal-Methods)
+8. [Novel Tasks](#Novel-Tasks)
+9. [Datasets](#Datasets)
+10. [Reference](#Reference)
 
-
-2. <a href="#Preprint Papers"> Preprint Papers </a>
-3. <a href="#Camouflaged Object Detection"> Camouflaged Object Detection(COD) </a>
-4. <a href="#Weakly-supervised COD"> Weakly-supervised COD </a>
-5. <a href="#Semi-supervised COD"> Semi-supervised COD </a>
-6. <a href="#Unsupervised COD"> Unsupervised COD </a>
-7. <a href="#Multi-modal Methods"> Multi-modal Methods </a>
-8. <a href="#Novel Tasks"> Novel Tasks </a>
-9. <a href="#Datasets"> Datasets </a>
-10. <a href="#Reference">Reference </a>
 
 
 ------
@@ -51,44 +41,44 @@
 01 | 2021 | TCSVT | Rethinking Camouflaged Object Detection: Models and Datasets <br><sup><sub>*Hongbo Bi, Cong Zhang, Kang Wang, Jinghui Tong, Feng Zheng*</sub></sup> | [Paper](https://ieeexplore.ieee.org/document/9598866)
 
 
-<h2 id="related-surveys">📚 2. Related Surveys</h2>
+<h2 id="Preprint-Papers">📚 2. Preprint Papers</h2>
 
 
 
 
-<h2 id="related-surveys">📚 3. Related Surveys</h2>
+<h2 id="Camouflaged-Object-Detection">📚 3. Camouflaged Object Detection (COD)</h2>
 
 
 
 
-<h2 id="related-surveys">📚 4. Related Surveys</h2>
+<h2 id="Weakly-supervised-COD">📚 4. Weakly-supervised COD</h2>
 
 
 
 
-<h2 id="related-surveys">📚 5. Related Surveys</h2>
-
-
-
-
-
-<h2 id="related-surveys">📚 6. Related Surveys</h2>
+<h2 id="Semi-supervised-COD">📚 5. Semi-supervised COD</h2>
 
 
 
 
 
-<h2 id="related-surveys">📚 7. Related Surveys</h2> 
+<h2 id="Unsupervised-COD">📚 6. Unsupervised COD</h2>
 
 
 
 
-<h2 id="related-surveys">📚 8. Related Surveys</h2>
+
+<h2 id="Multi-modal-Methods">📚 7. Multi-modal Methods</h2> 
 
 
 
-<h2 id="related-surveys">📚 9. Related Surveys</h2>
+
+<h2 id="Novel-Tasks">📚 8. Novel Tasks</h2>
 
 
 
-<h2 id="related-surveys">📚 10. Related Surveys</h2>
+<h2 id="Datasets">📚 9. Datasets</h2>
+
+
+
+<h2 id="Reference">📚 10. Reference</h2>
