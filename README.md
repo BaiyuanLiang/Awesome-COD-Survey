@@ -13,12 +13,13 @@
 
 ## :open_book: Content:
 
-1. <a href="#Survey">Related Surveys to COD </a>
-2. <a href="#Preprint Papers"> Preprint Papers </a>
-3. <a href="#Camouflaged Object Detection"> Camouflaged Object Detection(COD) </a>
-6. <a href="#Weakly-supervised COD"> Weakly-supervised COD </a>
-7. <a href="#Semi-supervised COD"> Semi-supervised COD </a>
-8. <a href="#Unsupervised COD"> Unsupervised COD </a>
-9. <a href="#Multi-modal Methods"> Multi-modal Methods </a>
-4. <a href="#Novel Tasks"> Novel Tasks </a>
-5. <a href="#Datasets"> Datasets </a>
+1. <a href="#Preprint Papers"> Preprint Papers </a>
+2. <a href="#Camouflaged Object Detection"> Camouflaged Object Detection(COD) </a>
+3. <a href="#Weakly-supervised COD"> Weakly-supervised COD </a>
+4. <a href="#Semi-supervised COD"> Semi-supervised COD </a>
+5. <a href="#Unsupervised COD"> Unsupervised COD </a>
+6. <a href="#Multi-modal Methods"> Multi-modal Methods </a>
+7. <a href="#Novel Tasks"> Novel Tasks </a>
+8. <a href="#Datasets"> Datasets </a>
+9. <a href="#Survey">Related Surveys to COD </a>
+10. <a href="#Reference">Reference </a>
