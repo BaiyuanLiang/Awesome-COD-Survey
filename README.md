@@ -16,11 +16,10 @@
 1. [Related Surveys](#Related-Surveys)
 2. [Preprint Papers](#Preprint-Papers)
 3. [Camouflaged Object Detection (COD)](#Camouflaged-Object-Detection)
-7. [Multi-modal Methods](#Multi-modal-Methods)
 4. [Weakly-supervised COD](#Weakly-supervised-COD)
 5. [Semi-supervised COD](#Semi-supervised-COD)
 6. [Unsupervised COD](#Unsupervised-COD)
-
+7. [Multi-modal Methods](#Multi-modal-Methods)
 8. [Novel Tasks](#Novel-Tasks)
 9. [Datasets](#Datasets)
 10. [Reference](#Reference)
