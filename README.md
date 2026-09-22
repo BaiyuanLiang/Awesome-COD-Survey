@@ -13,7 +13,7 @@
 
 ## Content:
 
-1. <a href="#Datasets">Remote Sensing Image Datasets</a>
+1. <a href="#survey">Related Surveys to COD</a>
 2. <a href="#Traditional Methods"> Traditional Remote Sensing Image Restoration Methods</a>
 3. <a href="#CNNmodels"> Deep Convolution for Remote Sensing Image Dehazing </a>
 4. <a href="#GANmodels"> Adversarial Generation for Remote Sensing Image Dehazing </a>
