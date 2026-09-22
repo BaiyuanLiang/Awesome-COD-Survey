@@ -41,8 +41,18 @@
 01 | 2021 | TCSVT | Rethinking Camouflaged Object Detection: Models and Datasets <br><sup><sub>*Hongbo Bi, Cong Zhang, Kang Wang, Jinghui Tong, Feng Zheng*</sub></sup> | [Paper](https://ieeexplore.ieee.org/document/9598866)
 
 
+
+------
+------
+
+
 <h2 id="Preprint-Papers">📝 2. Preprint Papers</h2>
 
+
+
+
+------
+------
 
 
 
@@ -51,8 +61,18 @@
 
 
 
+------
+------
+
+
+
 <h2 id="Weakly-supervised-COD">🔥 4. Weakly-supervised COD</h2>
 
+
+
+
+------
+------
 
 
 
@@ -62,8 +82,18 @@
 
 
 
+------
+------
+
+
+
 <h2 id="Unsupervised-COD">🔥 6. Unsupervised COD</h2>
 
+
+
+
+------
+------
 
 
 
@@ -73,7 +103,17 @@
 
 
 
+------
+------
+
+
+
 <h2 id="Novel-Tasks">✨ 8. Novel Tasks</h2>
+
+
+
+------
+------
 
 
 
@@ -81,4 +121,14 @@
 
 
 
+------
+------
+
+
+
 <h2 id="Reference">🔗 10. Reference</h2>
+
+
+------
+------
+
