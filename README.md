@@ -68,7 +68,7 @@
 
 <h2 id="Weakly-supervised-COD">🔥 4. Weakly supervised COD</h2>
 
-| **No.** | **Year** | **Pub.** | **Model** |      <div align="center">Title</div>              | **Links**                                                    | 
+ **No.** | **Year** | **Pub.** | **Model** |      <div align="center">Title</div>              | **Links**                                                     
 | :-----: | :------: | :------: | :-------: | :------------------------------------------------ | :----------------------------------------------------------- |  
 | | 2026 | CVPR | **FCL-COD** | FCL-COD: Weakly Supervised Camouflaged Object Detection with Frequency-aware and Contrastive Learning <br> <sup><sub>*Jingchen Ni, Quan Zhang, Dan Jiang, Keyu Lv, Ke Zhang, Chun Yuan*</sub></sup> | [Paper](https://openaccess.thecvf.com/content/CVPR2026F/html/Ni_FCL-COD_Weakly_Supervised_Camouflaged_Object_Detection_with_Frequency-aware_and_Contrastive_CVPRF_2026_paper.html)\|Code
 | | 2025 | TBD | **SAM-RNet** | Weakly-supervised Camouflaged Object Detection via SAM-guided Resolution Iteration Learning   <br> <sup><sub>*Y Ge, Y Zhong, Q Zhang, H Bi, T-Z Xiang*</sub></sup>  | [Paper](https://ieeexplore.ieee.org/document/11216034)\|[Code](https://github.com/ZX123445/SAM-RNet)
