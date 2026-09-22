@@ -13,7 +13,18 @@
 
 ## :open_book: Contents:
 
+1. [Related Surveys](#Related-Surveys)
 1. [Related Surveys](#related-surveys)
+1. [Related Surveys](#related-surveys)
+1. [Related Surveys](#related-surveys)
+1. [Related Surveys](#related-surveys)
+1. [Related Surveys](#related-surveys)
+1. [Related Surveys](#related-surveys)
+1. [Related Surveys](#related-surveys)
+1. [Related Surveys](#related-surveys)
+1. [Related Surveys](#related-surveys)
+
+
 2. <a href="#Preprint Papers"> Preprint Papers </a>
 3. <a href="#Camouflaged Object Detection"> Camouflaged Object Detection(COD) </a>
 4. <a href="#Weakly-supervised COD"> Weakly-supervised COD </a>
@@ -29,8 +40,7 @@
 ------
 
 
-## :books: 1. Related Surveys  <a id="Survey" class="anchor" href="#Survey" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
-<h2 id="related-surveys">📚 1. Related Surveys</h2>
+<h2 id="Related-Surveys">📚 1. Related Surveys</h2>
 
 **No.** | **Year** | **Pub.** | <div align="center">Title</div> | **Links** 
 :-: | :-: | :-:  | :-  | :-: 
@@ -41,44 +51,44 @@
 01 | 2021 | TCSVT | Rethinking Camouflaged Object Detection: Models and Datasets <br><sup><sub>*Hongbo Bi, Cong Zhang, Kang Wang, Jinghui Tong, Feng Zheng*</sub></sup> | [Paper](https://ieeexplore.ieee.org/document/9598866)
 
 
-## 📄 2. Preprint Papers  <a id="Preprint Papers" class="anchor" href="#Preprint Papers" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
+<h2 id="related-surveys">📚 2. Related Surveys</h2>
 
 
 
 
-## 📄 3. Camouflaged Object Detection(COD)  <a id="Camouflaged Object Detection" class="anchor" href="#Camouflaged Object Detection" aria-hidden="true"><span class="octicon octicon-link"></span></a>
+<h2 id="related-surveys">📚 3. Related Surveys</h2>
 
 
 
 
-## 📄 4. Weakly-supervised COD  <a id="Weakly-supervised COD" class="anchor" href="#Weakly-supervised COD" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
+<h2 id="related-surveys">📚 4. Related Surveys</h2>
 
 
 
 
-## 📄 5. Semi-supervised COD  <a id="Semi-supervised COD" class="anchor" href="#Semi-supervised COD" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
-
-
-
-
-
-## 📄 6. Unsupervised COD  <a id="Unsupervised COD" class="anchor" href="#Unsupervised COD" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
+<h2 id="related-surveys">📚 5. Related Surveys</h2>
 
 
 
 
 
-## 📄 7. Multi-modal Methods  <a id="Multi-modal Methods" class="anchor" href="#Multi-modal Methods" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
+<h2 id="related-surveys">📚 6. Related Surveys</h2>
 
 
 
 
-## 📄 8. Novel Tasks  <a id="Novel Tasks" class="anchor" href="#Novel Tasks" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
+
+<h2 id="related-surveys">📚 7. Related Surveys</h2> 
 
 
 
-## 📄 9. Datasets  <a id="Datasets" class="anchor" href="#Datasets" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
+
+<h2 id="related-surveys">📚 8. Related Surveys</h2>
 
 
 
-## 📄 10. Reference  <a id="Reference" class="anchor" href="#Reference" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
+<h2 id="related-surveys">📚 9. Related Surveys</h2>
+
+
+
+<h2 id="related-surveys">📚 10. Related Surveys</h2>
