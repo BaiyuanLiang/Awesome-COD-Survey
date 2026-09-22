@@ -205,11 +205,12 @@
 
 <h2 id="Reference">🔗 10. Reference</h2>
 
-[Awesome List for Camouflaged Object Detection  (COD)](https://github.com/GewelsJI/SINet-V2/blob/main/AWESOME_COD_LIST.md)
+[Awesome Camouflage Vision](https://github.com/visionxiang/awesome-camouflaged-object-detection)
 
 [Awesome Concealed Object Segmentation](https://github.com/ChunmingHe/awesome-concealed-object-segmentation)
 
-[Awesome Camouflage Vision](https://github.com/visionxiang/awesome-camouflaged-object-detection)
+[Awesome List for Camouflaged Object Detection  (COD)](https://github.com/GewelsJI/SINet-V2/blob/main/AWESOME_COD_LIST.md)
+
 
 ------
 ------
