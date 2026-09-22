@@ -11,7 +11,7 @@
 ------
 
 
-## :open_book: Content:
+## :open_book: Contents:
 
 1. <a href="#Survey">Related Surveys </a>
 2. <a href="#Preprint Papers"> Preprint Papers </a>
