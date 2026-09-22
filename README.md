@@ -4,4 +4,4 @@ We aim to provide a comprehensive and continuously updated collection of article
 
 As COD research is rapidly evolving, some relevant works may be unintentionally omitted. We warmly welcome researchers to recommend recent or missing studies through Issues or Pull Requests, and we will update this repository regularly.
 
-:running: :running: :running: ***KEEP UPDATING***([ Last updated at <b>2026/09/28</b> ])
+:running: :running: :running: ***KEEP UPDATING***(<b>2026/09/28</b>)
