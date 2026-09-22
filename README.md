@@ -14,7 +14,7 @@
 ## :open_book: Content:
 
 1. <a href="#survey">Related Surveys to COD </a>
-2. <a href="#Traditional Methods"> Traditional Remote Sensing Image Restoration Methods </a>
+2. <a href="#Preprint Papers"> Preprint Papers </a>
 3. <a href="#CNNmodels"> Deep Convolution for Remote Sensing Image Dehazing </a>
 4. <a href="#datasets"> Datasets </a>
 5. <a href="#Transformer"> Vision Transformer for Remote Sensing Image Dehazing </a>
