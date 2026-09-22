@@ -7,19 +7,17 @@
 :running: :running: :running: ***KEEP UPDATING*** (<b>2026/09/28</b>)
 
 
-
-
-
 ------
 ------
+
 
 ## Content:
 
-0. <a href="#Datasets">Remote Sensing Image Datasets</a>
-1. <a href="#Traditional Methods"> Traditional Remote Sensing Image Restoration Methods</a>
-2. <a href="#CNNmodels"> Deep Convolution for Remote Sensing Image Dehazing </a>
-3. <a href="#GANmodels"> Adversarial Generation for Remote Sensing Image Dehazing </a>
-4. <a href="#Transformer"> Vision Transformer for Remote Sensing Image Dehazing </a>
-5. <a href="#Diffusion"> Diffusion Generation for Remote Sensing Image Dehazing </a>
-6. <a href="#prospects"> Current Challenges and Future Prospects </a>
-7. <a href="#evaluation"> Evaluation </a>
+1. <a href="#Datasets">Remote Sensing Image Datasets</a>
+2. <a href="#Traditional Methods"> Traditional Remote Sensing Image Restoration Methods</a>
+3. <a href="#CNNmodels"> Deep Convolution for Remote Sensing Image Dehazing </a>
+4. <a href="#GANmodels"> Adversarial Generation for Remote Sensing Image Dehazing </a>
+5. <a href="#Transformer"> Vision Transformer for Remote Sensing Image Dehazing </a>
+6. <a href="#Diffusion"> Diffusion Generation for Remote Sensing Image Dehazing </a>
+7. <a href="#prospects"> Current Challenges and Future Prospects </a>
+8. <a href="#evaluation"> Evaluation </a>
