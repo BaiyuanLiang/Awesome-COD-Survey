@@ -29,7 +29,7 @@
 ------
 ------
 
-
+<details>
 <summary><h2 id="Related-Surveys">📚 1. Related Surveys</h2><summary>
 
 | **No.** | **Year** | **Pub.** | <div align="center">Title</div> | **Links** | 
@@ -40,7 +40,7 @@
 02 | 2023 | VI | Advances in Deep Concealed Scene Understanding <br> <sup><sub>*Deng-Ping Fan, Ge-Peng Ji, Peng Xu, Ming-Ming Cheng, Christos Sakaridis, Luc Van Gool*</sub></sup> | [Paper](https://link.springer.com/article/10.1007/s44267-023-00019-6)/[Project](https://github.com/DengPingFan/CSU) 
 01 | 2021 | TCSVT | Rethinking Camouflaged Object Detection: Models and Datasets <br><sup><sub>*Hongbo Bi, Cong Zhang, Kang Wang, Jinghui Tong, Feng Zheng*</sub></sup> | [Paper](https://ieeexplore.ieee.org/document/9598866)
 
-
+<details>
 
 ------
 ------
