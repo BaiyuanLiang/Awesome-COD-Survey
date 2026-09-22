@@ -1,6 +1,6 @@
 # Deep Learning for Image-Level Camouflaged Object Detection: A Review of Progress, Challenges and Prospects [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)
 
-:books: We aim to provide a comprehensive and continuously updated collection of research papers related to Camouflaged Object Detection (COD). We hope this repository will help researchers quickly understand the development of the field.
+🎯 We aim to provide a comprehensive and continuously updated collection of research papers related to Camouflaged Object Detection (COD). We hope this repository will help researchers quickly understand the development of the field.
 
 :handshake: :handshake: As COD research is rapidly evolving, some relevant works may be unintentionally omitted. We warmly welcome researchers to recommend recent or missing studies through Issues or Pull Requests, and we will update this repository regularly.
 
@@ -29,7 +29,7 @@
 ------
 
 
-## 1. Related Surveys  <a id="Survey" class="anchor" href="#Survey" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+## :books: 1. Related Surveys  <a id="Survey" class="anchor" href="#Survey" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 
 
 **No.** | **Year** | **Pub.** | <div align="center">Title</div> | **Links** 
