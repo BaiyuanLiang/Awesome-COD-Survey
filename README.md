@@ -13,10 +13,10 @@
 
 ## :open_book: Content:
 
-1. <a href="#survey">Related Surveys to COD</a>
-2. <a href="#Traditional Methods"> Traditional Remote Sensing Image Restoration Methods</a>
+1. <a href="#survey">Related Surveys to COD </a>
+2. <a href="#Traditional Methods"> Traditional Remote Sensing Image Restoration Methods </a>
 3. <a href="#CNNmodels"> Deep Convolution for Remote Sensing Image Dehazing </a>
-4. <a href="#GANmodels"> Adversarial Generation for Remote Sensing Image Dehazing </a>
+4. <a href="#datasets"> Datasets </a>
 5. <a href="#Transformer"> Vision Transformer for Remote Sensing Image Dehazing </a>
 6. <a href="#Diffusion"> Diffusion Generation for Remote Sensing Image Dehazing </a>
 7. <a href="#prospects"> Current Challenges and Future Prospects </a>
