@@ -39,3 +39,6 @@
 03 | 2024 | MulSys | A survey on deep learning-based camouflaged object detection <br> <sup><sub>*Junmin Zhong, Anzhi Wang, Chunhong Ren & Jintao Wu*</sub></sup> | [Paper](https://link.springer.com/article/10.1007/s00530-024-01478-7)
 02 | 2023 | VI | Advances in Deep Concealed Scene Understanding <br> <sup><sub>*Deng-Ping Fan, Ge-Peng Ji, Peng Xu, Ming-Ming Cheng, Christos Sakaridis, Luc Van Gool*</sub></sup> | [Paper](https://link.springer.com/article/10.1007/s44267-023-00019-6)/[Project](https://github.com/DengPingFan/CSU) 
 01 | 2021 | TCSVT | Rethinking Camouflaged Object Detection: Models and Datasets <br><sup><sub>*Hongbo Bi, Cong Zhang, Kang Wang, Jinghui Tong, Feng Zheng*</sub></sup> | [Paper](https://ieeexplore.ieee.org/document/9598866)
+
+
+## 📄 2. Preprint Papers  <a id="Preprint Papers" class="anchor" href="#Preprint Papers" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
