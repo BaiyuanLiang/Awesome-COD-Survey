@@ -30,7 +30,7 @@
 ------
 
 <details>
-<summary><h2 id="Related-Surveys">📚 1. Related Surveys</h2></summary>summary>
+<h2 id="Related-Surveys">📚 1. Related Surveys</h2>
 
 | **No.** | **Year** | **Pub.** | <div align="center">Title</div> | **Links** | 
 :-: | :-: | :-:  | :-  | :-: 
