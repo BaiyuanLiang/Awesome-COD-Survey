@@ -46,39 +46,39 @@
 
 
 
-<h2 id="Camouflaged-Object-Detection">📚 3. Camouflaged Object Detection (COD)</h2>
+<h2 id="Camouflaged-Object-Detection">🔥 3. Camouflaged Object Detection (COD)</h2>
 
 
 
 
-<h2 id="Weakly-supervised-COD">📚 4. Weakly-supervised COD</h2>
+<h2 id="Weakly-supervised-COD">🔥 4. Weakly-supervised COD</h2>
 
 
 
 
-<h2 id="Semi-supervised-COD">📚 5. Semi-supervised COD</h2>
-
-
-
-
-
-<h2 id="Unsupervised-COD">📚 6. Unsupervised COD</h2>
+<h2 id="Semi-supervised-COD">🔥 5. Semi-supervised COD</h2>
 
 
 
 
 
-<h2 id="Multi-modal-Methods">📚 7. Multi-modal Methods</h2> 
+<h2 id="Unsupervised-COD">🔥 6. Unsupervised COD</h2>
 
 
 
 
-<h2 id="Novel-Tasks">📚 8. Novel Tasks</h2>
+
+<h2 id="Multi-modal-Methods">🔥 7. Multi-modal Methods</h2> 
 
 
 
-<h2 id="Datasets">📚 9. Datasets</h2>
+
+<h2 id="Novel-Tasks">✨ 8. Novel Tasks</h2>
 
 
 
-<h2 id="Reference">📚 10. Reference</h2>
+<h2 id="Datasets">📂 9. Datasets</h2>
+
+
+
+<h2 id="Reference">🔗 10. Reference</h2>
