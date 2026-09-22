@@ -13,7 +13,7 @@
 
 ## :open_book: Contents:
 
-1. [Related Surveys](#1. Related Rurveys)
+1. [Related Surveys](#1-related-surveys)
 2. <a href="#Preprint Papers"> Preprint Papers </a>
 3. <a href="#Camouflaged Object Detection"> Camouflaged Object Detection(COD) </a>
 4. <a href="#Weakly-supervised COD"> Weakly-supervised COD </a>
