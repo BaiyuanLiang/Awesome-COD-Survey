@@ -29,7 +29,7 @@
 ------
 
 
-## :books: 1. Related Surveys  <a id="Survey" class="anchor" href="#Survey" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+## :books: 1. Related Surveys  <a id="Survey" class="anchor" href="#Survey" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
 
 **No.** | **Year** | **Pub.** | <div align="center">Title</div> | **Links** 
