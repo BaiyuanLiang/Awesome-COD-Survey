@@ -29,13 +29,13 @@
 ------
 
 
-## 1. Related Surveys  <a id="Survey" class="anchor" href="#Survey" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+## Related Surveys  <a id="Survey" class="anchor" href="#Survey" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 :rocket::rocket::rocket:Update (in 2026-3-11) :balloon:
 
-**No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
+**No.** | **Year** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
-01 | 2015 | DHIM | SPL | Haze removal for a single remote sensing image based on deformed haze imaging model |[Paper](https://ieeexplore.ieee.org/abstract/document/7105841)/[Project]
-02 | 2017 | GRS-HTM | Signal Processing | Haze removal for a single visible remote sensing image |[Paper](https://www.sciencedirect.com/science/article/pii/S0165168417300464)/[Project]
-03 | 2018 | HMF | GRSL | A Framework for Outdoor RGB Image Enhancement and Dehazing | [Paper](https://ieeexplore.ieee.org/abstract/document/8331851)/[Project]
-04 | 2018 | SMIDCP | GRSL | Haze and thin cloud removal via sphere model improved dark channel prior | [Paper](https://ieeexplore.ieee.org/document/8500152)/[Project] 
-05 | 2019 | AHE | APCC | Single Image Dehazing Based on Adaptive Histogram Equalization and Linearization of Gamma Correction | [Paper](https://ieeexplore.ieee.org/document/9026457)/[Project]
+05 | 2024 | CAAI AIR | A Survey of Camouflaged Object Detection and Beyond |[Paper](https://www.sciopen.com/article/10.26599/AIR.2024.9150044)/[Project](https://github.com/ChunmingHe/awesome-concealed-object-segmentation) 
+04 | 2024 | Neucom | A systematic review of image-level camouflaged object detection with deep learning |[Paper](https://www.sciencedirect.com/science/article/pii/S0165168417300464)/[Project]
+03 | 2024 | MulSys | A survey on deep learning-based camouflaged object detection | [Paper](https://ieeexplore.ieee.org/abstract/document/8331851)/[Project]
+02 | 2023 | VI | Advances in Deep Concealed Scene Understanding | [Paper](https://ieeexplore.ieee.org/document/8500152)/[Project] 
+01 | 2021 | TCSVT | Rethinking Camouflaged Object Detection: Models and Datasets | [Paper](https://ieeexplore.ieee.org/document/9026457)/[Project]
