@@ -135,6 +135,20 @@
 
 <h2 id="Multi-modal-Methods">🔥 7. Multi-modal Methods</h2> 
 
+| **No.** | **Year** | **Pub.** | **Model** |      <div align="center">Title</div>              | **Links**                                                    |
+| :-----: | :------: | :------: | :-------: | :------------------------------------------------ | :----------------------------------------------------------- | 
+| | 2026 | CVPR | <small><sup>`DepthSAM`</sup></small> | Beyond Appearance: Camouflaged Object Detection via Geometric Structure <br> <sup><sub>*Jinyu Han, Changguang Wu, Fuming Sun, Jinhui Tang*</sub></sup> | [Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Han_Beyond_Appearance_Camouflaged_Object_Detection_via_Geometric_Structure_CVPR_2026_paper.html)\|Code
+| | 2026 | ECCV | <small><sup>`VCP-DCN`</sup></small> | VCP-DCN: Beyond Visual Concealed Property via Depth Collaborative Network for Camouflaged Object Detection <br> <sup><sub>*Songsong Duan, Xi Yang, Nannan Wang*</sub></sup> | [Paper](https://arxiv.org/abs/2607.27843)\|Code
+| | 2026 | TMM | <small><sup>`--`</sup></small> | Depth-Assisted Camouflaged Object Segmentation via Frequency-Domain Fusion and High-Order Interaction <br> <sup><sub>*Peng Ren, Cheng Jiang, Fuming Sun, Tian Bai*</sub></sup> | [Paper](https://doi.org/10.1109/tmm.2026.3668692)\|Code
+| | 2025 | ICCV | <small><sup>`SAM-COD`</sup></small> | Improving SAM for Camouflaged Object Detection via Dual Stream Adapters <br> <sup><sub>*Jiaming Liu, Linghe Kong, Guihai Chen*</sub></sup> | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Liu_Improving_SAM_for_Camouflaged_Object_Detection_via_Dual_Stream_Adapters_ICCV_2025_paper.html)\|Code
+| | 2024 | MM | <small><sup>`DSAM`</sup></small> | Exploring Deeper! Segment Anything Model with Depth Perception for Camouflaged Object Detection <br> <sup><sub>*Zhenni Yu, Xiaoqin Zhang, Li Zhao, Yi Bin, Guobao Xiao*</sub></sup> | [Paper](https://arxiv.org/abs/2407.12339)\|[Code](https://github.com/guobaoxiao/DSAM)
+| | 2024 | CVPR | <small><sup>`RISNet`</sup></small> | Depth-Aware Concealed Crop Detection in Dense Agricultural Scenes <sub>![Static Badge](https://img.shields.io/badge/ACOD--12K-grey)</sub> <br> <sup><sub>*Liqiong Wang, Jinyu Yang, Yanfu Zhang, Fangyi Wang, Feng Zheng*</sub></sup> | [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_Depth-Aware_Concealed_Crop_Detection_in_Dense_Agricultural_Scenes_CVPR_2024_paper.html)\|[Code](https://github.com/Kki2Eve/RISNet)
+| | 2023 | MM | <small><sup>`DaCOD`</sup></small> | Depth-aided Camouflaged Object Detection <br> <sup><sub>*Qingwei Wang, Jinyu Yang, Xiaosheng Yu, Fangyi Wang, Peng Chen, Feng Zheng*</sub></sup> | [Paper](https://dl.acm.org/doi/10.1145/3581783.3611874)\|[Code](https://github.com/qingwei-wang/DaCOD)
+| | 2023 | ICCV | <small><sup>`PopNet`</sup></small> | Source-free Depth for Object Pop-out <br> <sup><sub>*Zongwei Wu, Danda Pani Paudel, Deng-Ping Fan, Jingjing Wang, Shuo Wang, Cedric Demonceaux, Radu Timofte, Luc Van Gool*</sub></sup> | [Paper](https://arxiv.org/abs/2212.05370)\|[Code](https://github.com/Zongwei97/PopNet)
+| | 2021 | arXiv | <small><sup>`-`</sup></small> | Exploring Depth Contribution for Camouflaged Object Detection <br> <sup><sub>*Mochu Xiang, Jing Zhang, Yunqiu Lv, et al.*</sub></sup> | [Paper](https://arxiv.org/abs/2106.13217v3)\|Code
+| | 2026 | TCSVT | <small><sup>`--`</sup></small> | Visible-Infrared Camouflaged Object Detection <br> <sup><sub>*Cheng Liu, Zheng Wang, Xinyu Yan, Meijun Sun, Qinghua Hu*</sub></sup> | [Paper](https://doi.org/10.1109/tcsvt.2025.3608933)\|Code
+| | 2026 | TMM | <small><sup>`--`</sup></small> | Band-Mixed Edge-Aware Interaction Learning for RGB-T Camouflaged Object Detection <br> <sup><sub>*Ruiheng Zhang, Kaizheng Chen, Lu Li, Daming Zhou, Yunqiu Xu, Zheng Lin, Lixin Xu, Weitao Song*</sub></sup> | [Paper](https://doi.org/10.1109/tmm.2026.3703589)\|Code
+
 
 
 
