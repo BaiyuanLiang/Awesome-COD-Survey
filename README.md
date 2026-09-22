@@ -68,8 +68,8 @@
 
 <h2 id="Weakly-supervised-COD">🔥 4. Weakly supervised COD</h2>
 
- **No.** | **Year** | **Pub.** | **Model** |      <div align="center">Title</div>              | **Links**                                                     
-| :-----: | :------: | :------: | :-------: | :------------------------------------------------ | :----------------------------------------------------------- |  
+|  **No.** | **Year** | **Pub.** | **Model** |      <div align="center">Title</div>              | **Links**                                                    |  
+| :-----: | :------: | :------: | :-------: | :------------------------------------------------ | :-----------------------------------------------------------: |  
 | | 2026 | CVPR | **FCL-COD** | FCL-COD: Weakly Supervised Camouflaged Object Detection with Frequency-aware and Contrastive Learning <br> <sup><sub>*Jingchen Ni, Quan Zhang, Dan Jiang, Keyu Lv, Ke Zhang, Chun Yuan*</sub></sup> | [Paper](https://openaccess.thecvf.com/content/CVPR2026F/html/Ni_FCL-COD_Weakly_Supervised_Camouflaged_Object_Detection_with_Frequency-aware_and_Contrastive_CVPRF_2026_paper.html)\|Code
 | | 2025 | TBD | **SAM-RNet** | Weakly-supervised Camouflaged Object Detection via SAM-guided Resolution Iteration Learning   <br> <sup><sub>*Y Ge, Y Zhong, Q Zhang, H Bi, T-Z Xiang*</sub></sup>  | [Paper](https://ieeexplore.ieee.org/document/11216034)\|[Code](https://github.com/ZX123445/SAM-RNet)
 | | 2025 | ACM MM | **PRLNet** | Progressive Representation Learning for Weakly-Supervised Camouflaged Object Detection  <br> <sup><sub>*Shuyong Gao, Qianyu Guo, Yu'ang Feng, Chunyuan Chen, Xujun Wei, Yan Wang, Wenqiang Zhang*</sub></sup>  | [Paper](https://dl.acm.org/doi/abs/10.1145/3746027.3754737)\|[Code](https://github.com/shuyonggao/PRLNet) | 
@@ -95,7 +95,7 @@
 <h2 id="Semi-supervised-COD">🔥 5. Semi-supervised COD</h2>
 
 | **No.** | **Year** | **Pub.** | **Model** |      <div align="center">Title</div>              | **Links**                                                    | 
-| :-----: | :------: | :------: | :-------: | :------------------------------------------------ | :----------------------------------------------------------- |  
+| :-----: | :------: | :------: | :-------: | :------------------------------------------------ | :-----------------------------------------------------------: |  
 | | 2025 | TPAMI | <sup>`SEE`</sup>  | Segment Concealed Objects with Incomplete Supervision   <br> <sup><sub>*Chunming He, Kai Li, Yachao Zhang, Ziyun Yang, Youwei Pang, Longxiang Tang, Chengyu Fang, Yulun Zhang, Linghe Kong, Xiu Li, Sina Farsiu*</sub></sup>  | [Paper](https://arxiv.org/abs/2506.08955)\|[Code](https://github.com/ChunmingHe/SEE) 
 | | 2025 | ACMMM | <sup>`ST-SAM`</sup> | ST-SAM: SAM-Driven Self-Training Framework for Semi-Supervised Camouflaged Object Detection   <br> <sup><sub>*Xihang Hu, Fuming Sun, Jiazhe Liu, Feilong Xu, Xiaoli Zhang*</sub></sup>  | [Paper](https://arxiv.org/abs/2507.23307)\|[Code](https://github.com/hu-xh/ST-SAM)
 | | 2025 | ICASSP | <sup>`SILNet`</sup> | Semi-supervised Iterative Learning Network for Camouflaged Object Detection   <br> <sup><sub>*Guowen Yue; Ge Jiao; Jiahao Xiang*</sub></sup>  | [Paper](https://ieeexplore.ieee.org/document/10890224)\|Code
@@ -114,7 +114,7 @@
 <h2 id="Unsupervised-COD">🔥 6. Unsupervised COD</h2>
 
 | **No.** | **Year** | **Pub.** | **Model** |      <div align="center">Title</div>              | **Links**                                                    | 
-| :-----: | :------: | :------: | :-------: | :------------------------------------------------ | :----------------------------------------------------------- |  
+| :-----: | :------: | :------: | :-------: | :------------------------------------------------ | :-----------------------------------------------------------: |  
 | | 2026 | CVPR | <small><sup>`--`</sup></small> | Beyond Weak Supervision: MLLMs-Guided Graded Knowledge Distillation for Unsupervised Camouflaged Object Detection <br> <sup><sub>*Huafeng Chen, Chenguang Zhu, Yueming Lyu, Caifeng Shan*</sub></sup> | [Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Chen_Beyond_Weak_Supervision_MLLMs-Guided_Graded_Knowledge_Distillation_for_Unsupervised_Camouflaged_CVPR_2026_paper.html)\|Code
 | | 2026 | CVPR | <small><sup>`EReCu`</sup></small> | EReCu: Pseudo-label Evolution Fusion and Refinement with Multi-Cue Learning for Unsupervised Camouflage Detection <br> <sup><sub>*Shuo Jiang, Gaojia Zhang, Min Tan, Yufei Yin, Gang Pan*</sub></sup> | [Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Jiang_EReCu_Pseudo-label_Evolution_Fusion_and_Refinement_with_Multi-Cue_Learning_for_CVPR_2026_paper.html)\|Code
 | | 2026 | ICML | <small><sup>`DualUCOD`</sup></small> | Unsupervised Camouflaged Object Detection with Dual-Eigenvector Spectral Pseudo-Labeling and Contrastive Refinement <br> <sup><sub>*Pingzhu Liu, Chunming He, Zunnan Xu, Chao Hao, Bo Zhao, Xingyu Shao, Jun Zhou, Zitong Yu, Xiu Li*</sub></sup> | [Paper](https://icml.cc/virtual/2026/poster/63384)\|Code
@@ -136,7 +136,7 @@
 <h2 id="Multi-modal-Methods">🔥 7. Multi-modal Methods</h2> 
 
 | **No.** | **Year** | **Pub.** | **Model** |      <div align="center">Title</div>              | :**Links**  :                                                  | 
-| :-----: | :------: | :------: | :-------: | :------------------------------------------------ | :----------------------------------------------------------- | 
+| :-----: | :------: | :------: | :-------: | :------------------------------------------------ | :-----------------------------------------------------------: | 
 | | 2026 | CVPR | <small><sup>`DepthSAM`</sup></small> | Beyond Appearance: Camouflaged Object Detection via Geometric Structure <br> <sup><sub>*Jinyu Han, Changguang Wu, Fuming Sun, Jinhui Tang*</sub></sup> | [Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Han_Beyond_Appearance_Camouflaged_Object_Detection_via_Geometric_Structure_CVPR_2026_paper.html)\|Code
 | | 2026 | ECCV | <small><sup>`VCP-DCN`</sup></small> | VCP-DCN: Beyond Visual Concealed Property via Depth Collaborative Network for Camouflaged Object Detection <br> <sup><sub>*Songsong Duan, Xi Yang, Nannan Wang*</sub></sup> | [Paper](https://arxiv.org/abs/2607.27843)\|Code
 | | 2026 | TMM | <small><sup>`--`</sup></small> | Depth-Assisted Camouflaged Object Segmentation via Frequency-Domain Fusion and High-Order Interaction <br> <sup><sub>*Peng Ren, Cheng Jiang, Fuming Sun, Tian Bai*</sub></sup> | [Paper](https://doi.org/10.1109/tmm.2026.3668692)\|Code
@@ -163,7 +163,7 @@
 <h2 id="Novel-Tasks">✨ 8. Novel Tasks</h2>
 
 | **No.** | **Year** | **Pub.** | **Model** |      <div align="center">Title</div>              | **Links**                                                    | 
-| :-----: | :------: | :------: | :-------: | :------------------------------------------------ | :----------------------------------------------------------- |  
+| :-----: | :------: | :------: | :-------: | :------------------------------------------------ | :-----------------------------------------------------------: |  
 | | 2026 | TCSVT | <small><sup>`--`</sup></small> | Beyond Semantics: Multiscale Interaction Network for Referring Camouflaged Object Detection <br> <sup><sub>*Xiandong Wang, Tianqi Guo, Fengqin Yao, Qi Guo, Shengke Wang, Qing Cai, Junyu Dong, Guoqiang Zhong*</sub></sup> | [Paper](https://doi.org/10.1109/tcsvt.2026.3670168)\|Code
 | | --  | arXiv | <sup>`MLKG`</sup> | Large Model Based Referring Camouflaged Object Detection   <br> <sup><sub>*Shupeng Cheng, Ge-Peng Ji, Pengda Qin, Deng-Ping Fan, Bowen Zhou, Peng Xu*</sub></sup>  | [Paper](https://arxiv.org/abs/2311.17122)\|Code   
 | | 2025  | TIP | <sup>`UAT`</sup> | Uncertainty-Aware Transformer for Referring Camouflaged Object Detection  <br> <sup><sub>*Ranwan Wu, Tian-Zhu Xiang, Guo-Sen Xie, Rongrong Gao, Xiangbo Shu, Fang Zhao, Ling Shao*</sub></sup>  | [Paper](https://ieeexplore.ieee.org/abstract/document/11080234)\|[Code](https://github.com/CVL-hub/UAT)
