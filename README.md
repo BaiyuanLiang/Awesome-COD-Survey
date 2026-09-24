@@ -20,7 +20,7 @@
 5. [Semi-supervised COD](#Semi-supervised-COD)
 6. [Unsupervised COD](#Unsupervised-COD)
 7. [Multi-modal Methods](#Multi-modal-Methods)
-8. [Novel Tasks](#Novel-Tasks)
+8. [Emerging Tasks](#Emerging-Tasks)
 9. [Datasets](#Datasets)
 10. [Reference](#Reference)
 
@@ -349,7 +349,7 @@
 
 
 <details>
-<summary><h2 id="Novel-Tasks">✨ 8. Novel Tasks</h2></summary>
+<summary><h2 id="Emerging-Tasks">✨ 8. Emerging Tasks</h2></summary>
 
 | **No.** | **Year** | **Pub.** | **Model** |      <div align="center">Title</div>              | **Links**                                                    | 
 | :-----: | :------: | :------: | :-------: | :------------------------------------------------ | :-----------------------------------------------------------: |  
