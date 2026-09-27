@@ -377,9 +377,9 @@
 <details>
 <summary><h2 id="Datasets">📂 8. Datasets</h2></summary>
 
-| **No.** | **Year** | **Pub.** |                                             **Name**                                            |                                                                         **Links**                                                                         | **Type** | **Img.(Camo.)** | **BBbox** | **Pix.** | **Ins.** |
+| **No.** | **Year** | **Pub.** |                                           **Dataset**                                           |                                                                         **Links**                                                                         | **Type** | **Img.(Camo.)** | **BBbox** | **Pix.** | **Ins.** |
 |:-------:|:--------:|:--------:|:-----------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------:|:---------------:|:---------:|:--------:|:--------:|
-|    15   |   2026   |   AAAI   |                                             HyperCOD                                            |                                                     [Paper](https://doi.org/10.1609/aaai.v40i4.37221)                                                     |    HSI   |       350       |           |     ✓    |          |
+|    15   |   2026   |   AAAI   |                      [HyperCOD]()https://github.com/Baishuyanyan/HyperCOD)                      |                                                     [Paper](https://doi.org/10.1609/aaai.v40i4.37221)                                                     |    HSI   |       350       |           |     ✓    |          |
 | 14      |   2026   |   EAAI   | [ACD1K](https://www.kaggle.com/datasets/aalihhiader/military-camouflage-soldiers-dataset-mcs1k) |                                        [Paper](https://www.sciencedirect.com/science/article/pii/S0952197625033457)                                       |    Img   |       1078      |     ✓     |     ✓    |          |
 | 13      |   2025   |   ICCV   |                            [USC12K](https://github.com/ssecv/USCNet)                            |                                                         [Paper](https://arxiv.org/abs/2412.10943)                                                         |    Img   |      12000      |           |     ✓    |          |
 | 12      |   2025   |   TPAMI  |                        [R2C7K](https://github.com/zhangxuying1004/RefCOD)                       |                                                     [Paper](https://github.com/zhangxuying1004/RefCOD)                                                    |    Img   |  5015/1600(Ref) |           |     ✓    |          |
@@ -394,7 +394,6 @@
 | 03      |   2019   |   CVIU   |                   [CAMO](https://sites.google.com/view/ltnghia/research/camo)                   |                                          [Paper](http://www.dgcv.nii.ac.jp/Publications/Papers/2019/cviu2019.pdf)                                         |    Img   |       1250      |           |     ✓    |          |
 | 02      |   2018   |    SPL   |                 [CPD1K](https://github.com/xfflyer/Camouflaged-people-detection)                |                                                   [Paper](https://ieeexplore.ieee.org/document/8336933)                                                   |    Img   |       1000      |           |     ✓    |          |
 | 01      |   2017   |     —    |      [CHAMELEON](https://www.polsl.pl/rau6/chameleon-database-animal-camouflage-analysis/)      |                                    [Webpage](https://www.polsl.pl/rau6/chameleon-database-animal-camouflage-analysis/)                                    |    Img   |        76       |           |     ✓    |          |
-
 
 </details>
 
