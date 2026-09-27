@@ -248,8 +248,8 @@
 <details>
 <summary><h2 id="Weakly-supervised-COD">🔥 3. Weakly supervised COD</h2></summary>
 
-| **No.** | **Year** | **Pub.** |  **Model** |                                                                                                                    **Title**                                                                                                                    |                                                                                         **Links**                                                                                        |
-|:-------:|:--------:|:--------:|:----------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| **No.** | **Year** | **Pub.** |  **Model** | **Title**                                                                                                                                                                                                                                       |                                                                                         **Links**                                                                                        |
+|:-------:|:--------:|:--------:|:----------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |    14   |   2026   |   CVPR   |  `FCL-COD` | FCL-COD: Weakly Supervised Camouflaged Object Detection with Frequency-aware and Contrastive Learning   <br> <sup><sub>*Jingchen Ni, Quan Zhang, Dan Jiang, Keyu Lv, Ke Zhang, Chun Yuan*</sub></sup>                                           | [Paper](https://openaccess.thecvf.com/content/CVPR2026F/html/Ni_FCL-COD_Weakly_Supervised_Camouflaged_Object_Detection_with_Frequency-aware_and_Contrastive_CVPRF_2026_paper.html)\|Code |
 |    13   |   2026   |    TIP   |  `MIR-Net` | Mutual Iterative Refinement Network for Scribble-Supervised Camouflaged Object Detection <br> <sup><sub>*Chao Yin; Kequan Yang; Jide Li; Xiaoqiang Li*</sub></sup>                                                                              | [Paper](https://doi.org/10.1109/TIP.2025.3629044)\|[Code](https://github.com/ycyinchao/MIR-Net)                                                                                          |
 |    12   |   2026   |    KBS   |     `-`    | SAM-guided depth-aware weakly supervised camouflaged object detection with spatial-frequency exploration <br> <sup><sub>*Dongdong Zhang, Chunping Wang, Qiang Fu, Yao Song*</sub></sup>                                                         | [Paper](https://doi.org/10.1016/j.knosys.2026.115330)\|[Code](https://github.com/zcc0616/SAM-guided-RGB-D-COD)                                                                           |
@@ -266,6 +266,9 @@
 |    01   |   2023   |   AAAI   |   `CRNet`  | Weakly-Supervised Camouflaged Object Detection with Scribble Annotations     <br> <sup><sub>*Ruozhen He, Qihua Dong, Jiaying Lin, Rynson W.H. Lau*</sub></sup>                                                                                  | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25156)\|[Code](https://github.com/dddraxxx/Weakly-Supervised-Camouflaged-Object-Detection-with-Scribble-Annotations)            |
 
 </details>
+
+
+
 
 ------
 ------
@@ -285,6 +288,9 @@
 
 
 </details>
+
+
+
 
 ------
 ------
@@ -306,6 +312,9 @@
 | | 2023 | ICCVW | <sup>`UCOS-DA`</sup>	| Unsupervised Camouflaged Object Segmentation as Domain Adaptation   <br> <sup><sub>*Yi Zhang; Chengyi Wu*</sub></sup>  | [Paper](https://openaccess.thecvf.com/content/ICCV2023W/OODCV/html/Zhang_Unsupervised_Camouflaged_Object_Segmentation_as_Domain_Adaptation_ICCVW_2023_paper.html)\|[Code](https://github.com/YeeZ93/UCOS-DA)
 
 </details>
+
+
+
 
 ------
 ------
@@ -335,6 +344,9 @@
 
 </details>
 
+
+
+
 ------
 ------
 
@@ -353,6 +365,10 @@
 
 
 </details>
+
+
+
+
 
 ------
 ------
@@ -381,6 +397,10 @@
 
 
 </details>
+
+
+
+
 
 ------
 ------
