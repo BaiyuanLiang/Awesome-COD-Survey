@@ -14,15 +14,14 @@
 ## :open_book: Contents:
 
 1. [Related Surveys](#Related-Surveys)
-2. [Preprint Papers](#Preprint-Papers)
-3. [Camouflaged Object Detection (COD)](#Camouflaged-Object-Detection)
-4. [Weakly supervised COD](#Weakly-supervised-COD)
-5. [Semi-supervised COD](#Semi-supervised-COD)
-6. [Unsupervised COD](#Unsupervised-COD)
-7. [Multi-modal Methods](#Multi-modal-Methods)
-8. [Emerging Tasks](#Emerging-Tasks)
-9. [Datasets](#Datasets)
-10. [Reference](#Reference)
+2. [Camouflaged Object Detection (COD)](#Camouflaged-Object-Detection)
+3. [Weakly supervised COD](#Weakly-supervised-COD)
+4. [Semi-supervised COD](#Semi-supervised-COD)
+5. [Unsupervised COD](#Unsupervised-COD)
+6. [Multi-modal Methods](#Multi-modal-Methods)
+7. [Emerging Tasks](#Emerging-Tasks)
+8. [Datasets](#Datasets)
+9. [Reference](#Reference)
 
 
 
@@ -42,14 +41,7 @@
 
 </details>
 
-------
-------
 
-<details>
-<summary><h2 id="Preprint-Papers">📝 2. Preprint Papers</h2></summary>
-
-
-</details>
 
 
 
@@ -59,7 +51,7 @@
 
 
 <details>
-<summary><h2 id="Camouflaged-Object-Detection">🔥 3. Camouflaged Object Detection (COD)</h2></summary>
+<summary><h2 id="Camouflaged-Object-Detection">🔥 2. Camouflaged Object Detection (COD)</h2></summary>
 
 | **No.** | **Year** |       **Pub.**      |      **Model**     | Title                                                                                                                                                                                                                                                                |                                                                                                     **Links**                                                                                                     |
 |:-------:|:--------:|:-------------------:|:------------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -255,7 +247,7 @@
 
 
 <details>
-<summary><h2 id="Weakly-supervised-COD">🔥 4. Weakly supervised COD</h2></summary>
+<summary><h2 id="Weakly-supervised-COD">🔥 3. Weakly supervised COD</h2></summary>
 
 |  **No.** | **Year** | **Pub.** | **Model** |      <div align="center">Title</div>              | **Links**                                                    |  
 | :-----: | :------: | :------: | :-------: | :------------------------------------------------ | :-----------------------------------------------------------: |  
@@ -281,7 +273,7 @@
 
 
 <details>
-<summary><h2 id="Semi-supervised-COD">🔥 5. Semi-supervised COD</h2></summary>
+<summary><h2 id="Semi-supervised-COD">🔥 4. Semi-supervised COD</h2></summary>
 
 | **No.** | **Year** | **Pub.** | **Model** |      <div align="center">Title</div>              | **Links**                                                    | 
 | :-----: | :------: | :------: | :-------: | :------------------------------------------------ | :-----------------------------------------------------------: |  
@@ -300,7 +292,7 @@
 
 
 <details>
-<summary><h2 id="Unsupervised-COD">🔥 6. Unsupervised COD</h2></summary>
+<summary><h2 id="Unsupervised-COD">🔥 5. Unsupervised COD</h2></summary>
 
 | **No.** | **Year** | **Pub.** | **Model** |      <div align="center">Title</div>              | **Links**                                                    | 
 | :-----: | :------: | :------: | :-------: | :------------------------------------------------ | :-----------------------------------------------------------: |  
@@ -322,7 +314,7 @@
 
 
 <details>
-<summary><h2 id="Multi-modal-Methods">🔥 7. Multi-modal Methods</h2></summary> 
+<summary><h2 id="Multi-modal-Methods">🔥 6. Multi-modal Methods</h2></summary> 
 
 | **No.** | **Year** | **Pub.** | **Model** |      <div align="center">Title</div>              | **Links**                                                    | 
 | :-----: | :------: | :------: | :-------: | :------------------------------------------------ | :-----------------------------------------------------------: | 
@@ -349,7 +341,7 @@
 
 
 <details>
-<summary><h2 id="Emerging-Tasks">✨ 8. Emerging Tasks</h2></summary>
+<summary><h2 id="Emerging-Tasks">✨ 7. Emerging Tasks</h2></summary>
 
 | **No.** | **Year** | **Pub.** | **Model** |      <div align="center">Title</div>              | **Links**                                                    | 
 | :-----: | :------: | :------: | :-------: | :------------------------------------------------ | :-----------------------------------------------------------: |  
@@ -368,7 +360,7 @@
 
 
 <details>
-<summary><h2 id="Datasets">📂 9. Datasets</h2></summary>
+<summary><h2 id="Datasets">📂 8. Datasets</h2></summary>
 
 | **No.** | **Name** | **Year** | **Pub.** | **Links** | **Type** | **Img.(Camo.)** | **BBbox** | **Pix.** | **Ins.** | **Comments**
 | :------: | :------: | :------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: |
@@ -396,7 +388,7 @@
 
 
 
-<h2 id="Reference">🔗 10. Reference</h2>
+<h2 id="Reference">🔗 9. Reference</h2>
 
 [Awesome Camouflage Vision](https://github.com/visionxiang/awesome-camouflaged-object-detection)
 
