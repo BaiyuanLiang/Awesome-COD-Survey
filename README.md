@@ -324,7 +324,7 @@
 <details>
 <summary><h2 id="Multi-modal-Methods">🔥 6. Multi-modal Methods</h2></summary> 
 
-| **No.** | **Year** | **Pub.** | **Model** |      <div align="center">Title</div>              | **Links**                                                    | 
+[| **No.** | **Year** | **Pub.** | **Model** |      <div align="center">Title</div>              | **Links**                                                    | 
 | :-----: | :------: | :------: | :-------: | :------------------------------------------------ | :-----------------------------------------------------------: | 
 | 14| 2026 | CVPR | <small><sup>`DepthSAM`</sup></small> | Beyond Appearance: Camouflaged Object Detection via Geometric Structure <br> <sup><sub>*Jinyu Han, Changguang Wu, Fuming Sun, Jinhui Tang*</sub></sup> | [Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Han_Beyond_Appearance_Camouflaged_Object_Detection_via_Geometric_Structure_CVPR_2026_paper.html)\|Code
 | 13| 2026 | ECCV | <small><sup>`VCP-DCN`</sup></small> | VCP-DCN: Beyond Visual Concealed Property via Depth Collaborative Network for Camouflaged Object Detection <br> <sup><sub>*Songsong Duan, Xi Yang, Nannan Wang*</sub></sup> | [Paper](https://arxiv.org/abs/2607.27843)\|Code
@@ -339,7 +339,7 @@
 | 04| 2026 | TMM | <small><sup>`--`</sup></small> | Band-Mixed Edge-Aware Interaction Learning for RGB-T Camouflaged Object Detection <br> <sup><sub>*Ruiheng Zhang, Kaizheng Chen, Lu Li, Daming Zhou, Yunqiu Xu, Zheng Lin, Lixin Xu, Weitao Song*</sub></sup> | [Paper](https://doi.org/10.1109/tmm.2026.3703589)\|Code
 | 03| 2025 | EAAI | <small><sup>`HIPFNet`</sup></small> | Polarization-based Camouflaged Object Detection with high-resolution adaptive fusion Network  <br> <sup><sub>*Xin Wang, Junfeng Xu, Jiajia Ding*</sub></sup>   | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625002453)\|[Code](https://github.com/CVhfut/HIPFNet)
 | 02| 2024 | EAAI | <small><sup>`IPNet`</sup></small> | IPNet: Polarization-based Camouflaged Object Detection via dual-flow network   <sub>![Static Badge](https://img.shields.io/badge/PCOD_1200-grey)</sub>   <br> <sup><sub>*Xin Wang, Jiajia Ding, Zhao Zhang, Junfeng Xu, Jun Gao*</sub></sup>   | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197623014872)\|[Code](https://github.com/CVhfut/PCOD_1200) 
-| 01| 2023 | PRL | <small><sup>`PolarNet`</sup></small> | Polarization-based Camouflaged Object Detection  <sub>![Static Badge](https://img.shields.io/badge/PCOD-grey)</sub>  <br> <sup><sub>*Xin Wang, Zhao Zhang, Jun Gao*</sub></sup>   | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865523002532)\|[Code](https://github.com/CVhfut/Polar-COD)
+| 01| 2023 | PRL | <small><sup>`PolarNet`</sup></small> | Polarization-based Camouflaged Object Detection  <sub>![Static Badge](https://img.shields.io/badge/PCOD-grey)</sub>  <br> <sup><sub>*Xin Wang, Zhao Zhang, Jun Gao*</sub></sup>   | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865523002532)\|[Code](https://github.com/CVhfut/Polar-COD)](https://ieeexplore.ieee.org/document/11699085)
 
 
 </details>
