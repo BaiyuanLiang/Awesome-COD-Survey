@@ -393,8 +393,8 @@
 |    15   |   2026   |   AAAI   |                       [HyperCOD](https://github.com/Baishuyanyan/HyperCOD)                      |                  [Paper](https://doi.org/10.1609/aaai.v40i4.37221)                  |    HSI   |       350       |           |     ✓    |          |
 |    14   |   2026   |   EAAI   | [ACD1K](https://www.kaggle.com/datasets/aalihhiader/military-camouflage-soldiers-dataset-mcs1k) |     [Paper](https://www.sciencedirect.com/science/article/pii/S0952197625033457)    |    Img   |       1078      |     ✓     |     ✓    |          |
 |    13   |   2025   |    AIR   |                        [PlantCamo](https://github.com/yjybuaa/PlantCamo)                        |                  [Paper](https://doi.org/10.26599/AIR.2025.9150045)                 |    Img   |       1250      |     ✓     |     ✓    |     ✓    |
-|    12   |   2025   |   TPAMI  |                        [R2C7K](https://github.com/zhangxuying1004/RefCOD)                       |           [Paper](https://ieeexplore.ieee.org/abstract/document/10848348）          |    Img   |  5015/1600(Ref) |           |     ✓    |          |
-|    11   |   2024   |   TNNLS  |                       [CoCOD8K](https://github.com/zc199823/BBNet--CoCOD)                       |               [Paper](https://ieeexplore.ieee.org/document/10298243）               |    Img   |       8528      |           |     ✓    |          |
+|    12   |   2025   |   TPAMI  |                        [R2C7K](https://github.com/zhangxuying1004/RefCOD)                       |           [Paper](https://ieeexplore.ieee.org/abstract/document/10848348)           |    Img   |  5015/1600(Ref) |           |     ✓    |          |
+|    11   |   2024   |   TNNLS  |                       [CoCOD8K](https://github.com/zc199823/BBNet--CoCOD)                       |                [Paper](https://ieeexplore.ieee.org/document/10298243)               |    Img   |       8528      |           |     ✓    |          |
 |    10   |   2024   |   CVPR   |                          [ACOD-12K](https://github.com/Kki2Eve/RISNet)                          |                [Paper](https://ieeexplore.ieee.org/document/10655361)               |    Img   |       6092      |     ✓     |     ✓    |          |
 |    09   |   2023   |   ICME   |                           [ACOD2K](https://github.com/syxvision/FDNet)                          |                [Paper](https://ieeexplore.ieee.org/document/10219932)               |    Img   |       1500      |           |     ✓    |          |
 |    08   |   2023   |   TCSVT  |             [CAM-LDR](https://github.com/JingZhang617/COD-Rank-Localize-and-Segment)            |                 [Paper](https://doi.org/10.1109/TCSVT.2023.3234578)                 |    Img   |       4040      |           |          |          |
@@ -405,7 +405,6 @@
 |    03   |   2019   |   CVIU   |                   [CAMO](https://sites.google.com/view/ltnghia/research/camo)                   |       [Paper](http://www.dgcv.nii.ac.jp/Publications/Papers/2019/cviu2019.pdf)      |    Img   |       1250      |           |     ✓    |          |
 |    02   |   2018   |    SPL   |                 [CPD1K](https://github.com/xfflyer/Camouflaged-people-detection)                |                [Paper](https://ieeexplore.ieee.org/document/8336933)                |    Img   |       1000      |           |     ✓    |          |
 |    01   |   2017   |     —    |      [CHAMELEON](https://www.polsl.pl/rau6/chameleon-database-animal-camouflage-analysis/)      | [Webpage](https://www.polsl.pl/rau6/chameleon-database-animal-camouflage-analysis/) |    Img   |        76       |           |     ✓    |          |
-
 </details>
 
 
