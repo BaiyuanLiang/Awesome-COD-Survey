@@ -15,7 +15,7 @@
 
 1. [Related Surveys](#Related-Surveys)
 2. [Camouflaged Object Detection (COD)](#Camouflaged-Object-Detection)
-3. [Weakly supervised COD](#Weakly-supervised-COD)
+3. [Weakly Supervised COD](#Weakly-Supervised-COD)
 4. [Semi-supervised COD](#Semi-supervised-COD)
 5. [Unsupervised COD](#Unsupervised-COD)
 6. [Multi-modal Methods](#Multi-modal-Methods)
@@ -246,7 +246,7 @@
 
 
 <details>
-<summary><h2 id="Weakly-supervised-COD">🔥 3. Weakly supervised COD</h2></summary>
+<summary><h2 id="Weakly-Supervised-COD">🔥 3. Weakly Supervised COD</h2></summary>
 
 | **No.** | **Year** | **Pub.** |  **Model** | **Title**                                                                                                                                                                                                                                       |                                                                                         **Links**                                                                                        |
 |:-------:|:--------:|:--------:|:----------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
